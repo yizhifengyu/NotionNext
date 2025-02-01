@@ -9,6 +9,7 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '欢迎来到我的博客', url: 'https://blog.yizhifengyu.com' },
+    { title: '使用 PC 电脑端浏览更佳', url: 'https://blog.yizhifengyu.com' },
     { title: '访问文档中心获取更多帮助', url: 'https://docs.yizhifengyu.com' }
   ],
 
@@ -18,11 +19,11 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '观我旧往',
-  HEO_HERO_TITLE_2: '同我仰春', 
+  HEO_HERO_TITLE_1: '去记录',
+  HEO_HERO_TITLE_2: '去感受生活', 
   HEO_HERO_TITLE_3: 'YIZHIFENGYU.COM',
-  HEO_HERO_TITLE_4: '去记录',
-  HEO_HERO_TITLE_5: '去感受生活',
+  HEO_HERO_TITLE_4: '观我旧往',
+  HEO_HERO_TITLE_5: '同我仰春',
   HEO_HERO_TITLE_LINK: 'https://yizhifengyu.com',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
