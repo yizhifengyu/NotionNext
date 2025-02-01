@@ -21,8 +21,8 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '去记录',
   HEO_HERO_TITLE_2: '去感受生活', 
   HEO_HERO_TITLE_3: 'YIZHIFENGYU.COM',
-  HEO_HERO_TITLE_4: '几帧从前',
-  HEO_HERO_TITLE_5: '相机喜欢镜头里的每个故事',
+  HEO_HERO_TITLE_4: '观我旧往',
+  HEO_HERO_TITLE_5: '同我仰春',
   HEO_HERO_TITLE_LINK: 'https://yizhifengyu.com',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
